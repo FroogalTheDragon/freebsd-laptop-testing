@@ -28,7 +28,7 @@ Hardware: Latitude E4300
         device     = 'BCM4312 802.11b/g LP-PHY'
         class      = network
 
-  Category Total Score: 4/4
+  Category Total Score: 1/2 
 
 --------------------
 
