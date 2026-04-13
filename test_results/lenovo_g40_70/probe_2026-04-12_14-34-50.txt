@@ -28,7 +28,7 @@ Hardware: Lenovo G40 70
         device     = 'RTL8723BE PCIe Wireless Network Adapter'
         class      = network
 
-  Category Total Score: 1/2
+  Category Total Score: 0.5/2
 
 --------------------
 
